@@ -46,3 +46,7 @@ To learn more about the war and how you can help, [click here](https://tyrrrz.me
 ![list](.screenshots/list.png)
 ![single](.screenshots/single.png)
 ![multiple](.screenshots/multiple.png)
+
+## Note
+This is a fork from the original YoutubeDownloader for backup purposes, download the official release instead from https://github.com/Tyrrrz/YoutubeDownloader :D
+-Scottsplays
